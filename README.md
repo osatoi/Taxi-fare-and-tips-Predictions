@@ -1,4 +1,4 @@
-![](automatidata_image.jpeg)
+![](taxi)
 
 # Overview 
 
