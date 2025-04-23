@@ -1,4 +1,4 @@
-![](taxi)
+![](taxi.jpg)
 
 # Overview 
 
